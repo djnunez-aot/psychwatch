@@ -1,7 +1,10 @@
-API: https://finnhub.io/
-Library for data display: https://d3js.org/
-Chat gpt for stock market analysis: https://openai.com/blog/introducing-chatgpt-and-whisper-apis
-News API: https://rapidapi.com/ctr-ou-ctr-ou-default/api/google-news-api1
+##API: https://finnhub.io/
+
+##Library for data display: https://d3js.org/
+
+##Chat gpt for stock market analysis: https://openai.com/blog/introducing-chatgpt-and-whisper-apis
+
+##News API: https://rapidapi.com/ctr-ou-ctr-ou-default/api/google-news-api1
 
 
 ## Developing
