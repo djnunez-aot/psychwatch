@@ -1,18 +1,11 @@
-# create-svelte
+##API: https://finnhub.io/
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+##Library for data display: https://d3js.org/
 
-## Creating a project
+##Chat gpt for stock market analysis: https://openai.com/blog/introducing-chatgpt-and-whisper-apis
 
-If you're seeing this, you've probably already done this step. Congrats!
+##News API: https://rapidapi.com/ctr-ou-ctr-ou-default/api/google-news-api1
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
 ## Developing
 
