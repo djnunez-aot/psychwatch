@@ -8,16 +8,15 @@
   } from "@smui/card";
   import Button, { Label } from "@smui/button";
   import IconButton, { Icon } from "@smui/icon-button";
-    
+  import { onMount } from 'svelte';  
+
   let message = '';
 
-  async function fetchData() {
+  onMount(async () => {
         const response = await fetch('http://localhost:3001/api/hello');
         const data = await response.json();
         message = data.message;
-    }
-
-    fetchData();
+    });
 </script>
 
 <div>
