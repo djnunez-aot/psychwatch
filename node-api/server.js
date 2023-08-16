@@ -11,7 +11,7 @@ app.use(cors()); // Enable CORS for all routes
 app.use(express.json()); // Parse JSON request bodies
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
-});
+});fff
 
 // Sample API Endpoint
 app.get("/api/hello", (req, res) => {
